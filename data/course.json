@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2010",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Public Administration",
+      "Military Studies"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Comparative History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Military History"
+    ]
+  ],
+  "legacy_uid": "164cfc3b-f827-b887-c306-8ea80ffaef7b",
+  "instructors": {
+    "content": [
+      "2f4d647a-04d4-7c45-5584-0ef1bccabb28"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "aa8cf071-1028-42cb-7436-900a3c8206a6",
+    "website": "17-582-civil-war-spring-2010"
+  },
+  "course_title": "Civil War",
+  "course_description": "This course surveys the social science literature on civil war. Students will study the origins of civil war, discuss variables that affect the duration of civil war, and examine the termination of conflict. This course is highly interdisciplinary and covers a wide variety of cases.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.582",
+  "course_image_thumbnail": {
+    "content": "3ef651d1-5f1c-ab7b-4c41-230c12b26fb4",
+    "website": "17-582-civil-war-spring-2010"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "eda6878f-0f28-4df5-9e2c-fba9173d8271",
+  "site_short_id": "17.582-spring-2010",
+  "site_url_path": "courses/17-582-civil-war-spring-2010",
+  "title": "Course Metadata"
+}
